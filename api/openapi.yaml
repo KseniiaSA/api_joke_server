@@ -34,7 +34,7 @@ paths:
       responses:
         '204':
           description: Joke deleted successfully
-  /joke:
+  /jokes:
     get:
       summary: Retrieve a random joke
       responses:
